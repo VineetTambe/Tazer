@@ -1,2 +1,2 @@
 # Lattitude_Longitude
-Refer Documentation for further details on the project
+Refer Documentation.docs for further details on the project
